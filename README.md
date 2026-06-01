@@ -183,7 +183,7 @@ data.humdata.org
 
 **Blessing Obasi-Uzoma**
 Geospatial Data Scientist | Physics Graduate, FUTO
-[GitHub](https://github.com/Code-blize) · [LinkedIn](https://linkedin.com/in/blessingobasiuzoma) · [Medium](https://medium.com/blessingobasiuzoma)
+[GitHub](https://github.com/Code-blize) · [LinkedIn](https://linkedin.com/in/blessingobasiuzoma) · [Medium](https://medium.com/@blessingobasiuzoma)
 
 ---
 
